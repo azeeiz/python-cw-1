@@ -15,3 +15,38 @@ print(3)
 
 
 # BONUS: Print the area in the following syntax: "If the length of a rectangle is 5, and width is 3 then the area is: 15". Keep in mind that you should replace the numbers with their respective variables. 
+
+#1
+name = "Aziz"
+#2
+print(name)
+
+#3
+print(3 + 5)
+
+#4
+print(80 / 8)
+
+#5
+print( 3 * 20)
+
+#6
+length = 40
+
+#7
+width = 25
+
+#8
+area = length * width
+
+#9
+print(area)
+
+#BONUS
+print(f"If the length of the rectangle {length}, and the widith is {width} then the area is: {area}")
+
+
+#EXTRA 
+input("Enter your name?")
+input("What are your hobbies?")
+input("What is your age?")
